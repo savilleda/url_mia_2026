@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Ana",
+    "Carrera": "Ingenier\u00EDa"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Carlos",
+    "Carrera": "Sistemas"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Mar\u00EDa",
+    "Carrera": "Contabilidad"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Pedro",
+    "Carrera": "Arquitectura"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Sof\u00EDa",
+    "Carrera": "Derecho"
+  }
+]
