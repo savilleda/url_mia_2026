@@ -1,0 +1,3 @@
+Nombre del estudiante: Sebastian Alexander Villeda Reyna
+Fecha de creación: Fri Jul 24 09:55:31 CST 2026
+Laboratorio 3 - Creación de Scripts en PowerShell y Bash
