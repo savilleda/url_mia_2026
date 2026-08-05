@@ -1,0 +1,3 @@
+Nombre del estudiante: Sebastian Villeda
+Fecha de creación: Tue Aug  4 18:40:23 CST 2026
+Laboratorio 3 - Creación de Scripts en PowerShell y Bash
