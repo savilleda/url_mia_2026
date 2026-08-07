@@ -1,0 +1,14 @@
+C:\MIA_LAB_5\project\Lab5\bin\Debug\net10.0\Lab5.exe
+C:\MIA_LAB_5\project\Lab5\bin\Debug\net10.0\Lab5.deps.json
+C:\MIA_LAB_5\project\Lab5\bin\Debug\net10.0\Lab5.runtimeconfig.json
+C:\MIA_LAB_5\project\Lab5\bin\Debug\net10.0\Lab5.dll
+C:\MIA_LAB_5\project\Lab5\bin\Debug\net10.0\Lab5.pdb
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.AssemblyInfoInputs.cache
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.AssemblyInfo.cs
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.csproj.CoreCompileInputs.cache
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.dll
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\refint\Lab5.dll
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.pdb
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\Lab5.genruntimeconfig.cache
+C:\MIA_LAB_5\project\Lab5\obj\Debug\net10.0\ref\Lab5.dll
