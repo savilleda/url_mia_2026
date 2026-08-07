@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MIA_LAB_5\\project\\Lab5\\Lab5.csproj": {}
+    "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj": {}
   },
   "projects": {
-    "C:\\MIA_LAB_5\\project\\Lab5\\Lab5.csproj": {
+    "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIA_LAB_5\\project\\Lab5\\Lab5.csproj",
+        "projectUniqueName": "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj",
         "projectName": "Lab5",
-        "projectPath": "C:\\MIA_LAB_5\\project\\Lab5\\Lab5.csproj",
+        "projectPath": "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj",
         "packagesPath": "C:\\Users\\veget\\.nuget\\packages\\",
-        "outputPath": "C:\\MIA_LAB_5\\project\\Lab5\\obj\\",
+        "outputPath": "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veget\\AppData\\Roaming\\NuGet\\NuGet.Config",
