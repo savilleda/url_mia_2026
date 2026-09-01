@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\Laboratorio_2_CSV_JSON.csproj",
-      "projectName": "Laboratorio_2_CSV_JSON",
-      "projectPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\Laboratorio_2_CSV_JSON.csproj",
+      "projectUniqueName": "c:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj",
+      "projectName": "Lab5",
+      "projectPath": "c:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj",
       "packagesPath": "C:\\Users\\veget\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\obj\\",
+      "outputPath": "c:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veget\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\Laboratorio_2_CSV_JSON.csproj": {}
+    "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\Laboratorio_2_CSV_JSON.csproj": {
+    "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\Laboratorio_2_CSV_JSON.csproj",
-        "projectName": "Laboratorio_2_CSV_JSON",
-        "projectPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\Laboratorio_2_CSV_JSON.csproj",
+        "projectUniqueName": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj",
+        "projectName": "Lab5",
+        "projectPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj",
         "packagesPath": "C:\\Users\\veget\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Laboratorio_2_CSV_JSON\\obj\\",
+        "outputPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veget\\AppData\\Roaming\\NuGet\\NuGet.Config",
