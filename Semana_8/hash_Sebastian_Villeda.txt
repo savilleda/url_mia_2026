@@ -1,0 +1,5 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          E5D15E5EA87D0DBCBF6F741D5D6768E0D237164DC37948A22CEE94B6E2187913       C:\Users\veget\OneDrive\Escritorio\url_mia_2…
+

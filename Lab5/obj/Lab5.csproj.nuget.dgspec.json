@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj": {}
+    "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj": {}
   },
   "projects": {
-    "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj": {
+    "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj",
+        "projectUniqueName": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj",
         "projectName": "Lab5",
-        "projectPath": "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\Lab5.csproj",
+        "projectPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\Lab5.csproj",
         "packagesPath": "C:\\Users\\veget\\.nuget\\packages\\",
-        "outputPath": "C:\\MIA_LAB_5\\url_mia_2026\\Lab5\\obj\\",
+        "outputPath": "C:\\Users\\veget\\OneDrive\\Escritorio\\url_mia_2026\\Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veget\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -40,10 +41,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
