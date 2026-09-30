@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laboratorio_2_CSV_JSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+574cc9c12d460d28ffae484fd1b04ca9163b9d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d17f6fd95a1ea6c1c398578ef847014e3c07d1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laboratorio_2_CSV_JSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laboratorio_2_CSV_JSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
